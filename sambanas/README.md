@@ -1,6 +1,6 @@
 # Home Assistant Add-on: Samba NAS share
 
-Share your disks over the network using Windows file sharing.
+Share your disks over the network using Windows file sharing with edward's personally customized.
 
 ![Supports aarch64 Architecture][aarch64-shield] ![Supports amd64 Architecture][amd64-shield] ![Supports armhf Architecture][armhf-shield] ![Supports armv7 Architecture][armv7-shield] ![Supports i386 Architecture][i386-shield]
 
@@ -9,6 +9,7 @@ Share your disks over the network using Windows file sharing.
 This Add-on allows you to enable file sharing across different operating systems over a network.
 It lets you access your config files with Windows and macOS devices.
 Also you can specify disk label to mount at boot and share.
+With additional script customized for edward only
 
 
 [aarch64-shield]: https://img.shields.io/badge/aarch64-yes-green.svg
@@ -20,4 +21,4 @@ Also you can specify disk label to mount at boot and share.
 [i386-shield]: https://img.shields.io/badge/i386-yes-green.svg
 [issue]: https://github.com/dianlight/hassio-addons/issues
 [reddit]: https://reddit.com/r/homeassistant
-[repository]: https://github.com/dianlight/hassio-addons
+[repository]: https://github.com/e-budianto/hassio-addons
