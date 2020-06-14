@@ -8,6 +8,9 @@ declare moredisks
 # Mount external drive
 if bashio::config.has_value 'moredisks'; then
      bashio::log.warning "MoreDisk option found!"
+     bashio::log.info "UnMounting 64GB Flashdisk"
+     ssh pi@hassio4 './umount64gb.sh'
+     bashio::log.info "UnMounting 64GB Flashdisk Done"
 
      MOREDISKS=$(bashio::config 'moredisks')
 ##    mkdir -p /dev_ && \
