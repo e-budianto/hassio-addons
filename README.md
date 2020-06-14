@@ -1,5 +1,6 @@
 # hassio-addons
-Dianlight Hassio.io repository.
+Edward hassio repository
+based on Dianlight' Hassio.io repository.
 
 **NOTE** See README.md in single addon directories.
 
@@ -10,4 +11,4 @@ comparison to installing any other Hass.io add-on.
 
 1. [Add our Hass.io add-ons repository][repository] to your Hass.io instance.
 
-[repository]: https://github.com/dianlight/hassio-addons
+[repository]: https://github.com/e-budianto/hassio-addons
