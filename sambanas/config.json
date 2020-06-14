@@ -35,7 +35,7 @@
         "veto_files": ["str"],
         "compatibility_mode": "bool"
     },
-    "image": "e-budianto/{arch}-addon-sambanas",
+    "image": "dianlight/{arch}-addon-sambanas",
     "udev": true,
     "host_dbus": true,
     "device-tree": true,
